@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there 👋 , I'm Toan
 
-<!--
-**toanppp/toanppp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> First and foremost, I love coding.
 
-Here are some ideas to get you started:
+```go
+package toanppp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+var _ = map[string]any{
+	"full_name": "Toàn Phú Phạm",
+	"pronouns":  []string{"he", "him", "his"},
+	"roles":     []string{"back-end", "full-stack"},
+	"connect": map[string]any{
+		"email":    "phamphutoan98@gmail.com",
+		"linkedin": "toanpp",
+	},
+	"skills": map[string]any{
+		"back-end":        []string{"go", "php", "laravel"},
+		"front-end":       []string{"js", "ts", "vue", "vuetify"},
+		"databases":       []string{"postgres", "mysql", "mongodb"},
+		"cache":           []string{"redis"},
+		"message-brokers": []string{"kafka", "rabbitmq"},
+		"ops":             []string{"shell", "linux", "docker"},
+		"others":          []string{"git", "uml", "scrum"},
+	},
+}
+```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toanppp&show_icons=true&locale=en) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=toanppp&)
+
+![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=toanppp&show_icons=true&locale=en&layout=compact) 
